@@ -119,9 +119,3 @@ wc_test_suite.runTests()
 - Checkpoint location for streaming: `{base_dir}/checkpoint/word_count`
 - Test assertions validate words starting with 's'
 
-## 🔜 Future Work
-
-- Complete invoice stream processing implementation (`05-invoice-stream-processing.ipynb`)
-- Add more complex streaming transformations
-- Implement windowing and watermarking examples
-- Add Kafka integration examples
